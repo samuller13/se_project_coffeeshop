@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would like to see more animations. I think the Book a table and menu pages could use more images, perhaps some photos of the coffees/food.
