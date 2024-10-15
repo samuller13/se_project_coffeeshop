@@ -14,3 +14,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 I would like to see more animations. I think the Book a table and menu pages could use more images, perhaps some photos of the coffees/food.
+
+## Project Link
+
+https://samuller13.github.io/se_project_coffeeshop/
